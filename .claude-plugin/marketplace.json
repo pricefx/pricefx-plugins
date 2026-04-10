@@ -1,0 +1,15 @@
+{
+  "name": "pricefx-plugins",
+  "owner": {
+    "name": "Pricefx"
+  },
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "pricefx-im",
+      "description": "Claude Code plugin for building, reviewing, debugging, and maintaining Pricefx Integration Manager projects",
+      "version": "1.0.0",
+      "source": "./plugins/pricefx-im-plugin/.claude-plugin"
+    }
+  ]
+}
